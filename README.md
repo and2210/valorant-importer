@@ -2,9 +2,9 @@
 
 ============================================================================================
 
-Name: Andrew Alex dos Santos \n
-Application: Valorant \n
-Project Type: Personal / Non-commercial \n
+Name: Andrew Alex dos Santos
+Application: Valorant
+Project Type: Personal
 Description: A personal non-commercial project to import, clean and organize my own Valorant match data from Deathmatch and Ranked matches.
 
 ============================================================================================
